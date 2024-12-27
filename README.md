@@ -7,17 +7,15 @@
  
  This module will help you in finding specific access point physical location.  
  
- [Work demonstration](https://www.youtube.com/watch?v=ugo5sCHWutE)
- 
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ugo5sCHWutE/0.jpg)](https://www.youtube.com/watch?v=ugo5sCHWutE)
- 
+ [Work](https://www.youtube.com/watch?v=ugo5sCHWutE)
+
  Proto WiFi scanner module
  
- <img src="https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266/blob/main/rep_images/flipper_module_proto_1.jpg?raw=true" data-canonical-src="https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266/blob/main/rep_images/flipper_module_proto_1.jpg?raw=true" width="450" />
+
  
  # Controls
  On scan page: 
-  * UP - move list up by one
+л
   * DOWN - move list down by one
   * OK (short press) - enter monitor mode
   * OK (long press) - scan again
